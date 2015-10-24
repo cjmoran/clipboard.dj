@@ -1,0 +1,21 @@
+### IntelliJ project files
+.idea/
+out/
+gen/
+
+### Node
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Built JS
+build/
+
+# Dependencies
+node_modules
