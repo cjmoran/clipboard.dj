@@ -12,6 +12,7 @@
 .nav-bar {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 
   width: 100%;
   height: 100%;
@@ -40,7 +41,7 @@
 }
 
 .lobby-url {
-  flex-shrink: 0;
+  flex: 0 1 auto;
 
   display: flex;
   align-items: center;
@@ -52,10 +53,22 @@
   font-size: 14pt;
   color: #c9c9c9;
 
-  input {
-    max-width: 420px;
+  .label {
+    flex: 0 0 auto;
+  }
 
+  input {
+    flex: 1 1 auto;
+
+    padding: 3px;
+    font-size: 12pt;
     color: black;
     background-color: white;
+    border: 1px inset #cccccc;
+    min-width: 0;
+
+    &:focus {
+      outline: none;
+    }
   }
 }
