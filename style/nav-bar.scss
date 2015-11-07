@@ -1,0 +1,61 @@
+@import "./global";
+
+.nav-bar-wrapper {
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+  height: 50px;
+  background-color: #0d0d0d;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+  max-width: 960px;
+}
+
+.logo-title {
+  display: flex;
+  align-items: center;
+
+  margin-left: 1em;
+  margin-right: 1em;
+
+  cursor: default;
+
+  .logo {
+    width: 27px;
+    height: 27px;
+    margin-right: 1em;
+  }
+
+  .title {
+    font-size: 20pt;
+    color: #5b5b5b;
+  }
+}
+
+.lobby-url {
+  flex-shrink: 0;
+
+  display: flex;
+  align-items: center;
+
+  height: 30px;
+  margin-left: auto;
+  margin-right: 1em;
+
+  font-size: 14pt;
+  color: #c9c9c9;
+
+  input {
+    max-width: 420px;
+
+    color: black;
+    background-color: white;
+  }
+}

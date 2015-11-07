@@ -24,7 +24,7 @@ module.exports = {
         // Compile SCSS into CSS and allow requiring from JS files
         test: /\.scss$/,
         include: [
-            path.resolve(__dirname, "public/style")
+            path.resolve(__dirname, "style")
         ],
         loaders: ["style", "css", "sass"]
       }

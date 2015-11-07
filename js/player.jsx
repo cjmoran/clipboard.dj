@@ -1,13 +1,17 @@
 "use strict";
 
-var React = require("react");
-var ReactDOM = require("react-dom");
+import "../style/player.scss";
+
+import React from "react";
+import ReactDOM from "react-dom";
+
+import NavBar from "./nav-bar.jsx";
 
 class Player extends React.Component {
   render() {
     return (
-        <div>
-          Definitely a complete web app at this point
+        <div className="player">
+          <NavBar />
         </div>
     );
   }

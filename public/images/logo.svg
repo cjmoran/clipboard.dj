@@ -1,0 +1,5505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg4315"
+   height="600"
+   width="600"
+   version="1.1">
+  <metadata
+     id="metadata4353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4317">
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5246"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5248" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.91566259"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5250" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5240"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5242" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.91566259"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5244" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5234"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5236" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.90963858"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5238" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5228"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5230" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.63855422"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5232" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5222"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5224" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.63855422"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5226" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5216"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5218" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.63855422"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5220" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5210"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5212" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5214" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5204"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5206" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5208" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5198"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5200" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5202" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5192"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5194" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5196" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5186"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5188" />
+      <stop
+         style="stop-color:#764476;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5190" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5180"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5182" />
+      <stop
+         style="stop-color:#764476;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5184" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5174"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5176" />
+      <stop
+         style="stop-color:#955695;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5178" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5168"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5170" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5172" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5162"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5164" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5166" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5156"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5158" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5160" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5150"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5152" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.53012049"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5154" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5144"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5146" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.53012049"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5148" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5138"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5140" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.53012049"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5142" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5132"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5134" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.63253009"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5136" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5126"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5128" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.71686745"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5130" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5120"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5122" />
+      <stop
+         style="stop-color:#a9a9a9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5124" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5114"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5116" />
+      <stop
+         style="stop-color:#a9a9a9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5118" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5108"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5110" />
+      <stop
+         style="stop-color:#a9a9a9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5112" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5102"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         stop-color="#fff"
+         offset="0%"
+         id="stop5104" />
+      <stop
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5106" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5096"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5098" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5100" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5090"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5092" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99607843"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5094" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5084"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5086" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99607843"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5088" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5078"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5080" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99607843"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5082" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5072"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5074" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99607843"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5076" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5066"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5068" />
+      <stop
+         style="stop-color:#ca0000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5070" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5060"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5062" />
+      <stop
+         style="stop-color:#ca0000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5064" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5054"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5056" />
+      <stop
+         style="stop-color:#ca0000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5058" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5048"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5050" />
+      <stop
+         style="stop-color:#c70000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5052" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5042"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5044" />
+      <stop
+         style="stop-color:#9f1e1e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5046" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5036"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5038" />
+      <stop
+         style="stop-color:#8a3333;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5040" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5030"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5032" />
+      <stop
+         style="stop-color:#803939;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5034" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5024"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5026" />
+      <stop
+         style="stop-color:#743333;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5028" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5018"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5020" />
+      <stop
+         style="stop-color:#743333;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5022" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5012"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5014" />
+      <stop
+         style="stop-color:#743333;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5016" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5006"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5008" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5010" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5000"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5002" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5004" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4994"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4996" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4998" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4988"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4990" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.35502958"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4992" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4982"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4984" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.35502958"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4986" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4976"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4978" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.41420117"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4980" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4970"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4972" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.72189349"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4974" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4964"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4966" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.73372781"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4968" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4958"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4960" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4962" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4952"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4954" />
+      <stop
+         style="stop-color:#764242;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4956" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4946"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4948" />
+      <stop
+         style="stop-color:#764242;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4950" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4940"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4942" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4944" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4934"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4936" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4938" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4928"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4930" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4932" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4922"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4924" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4926" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4916"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4918" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4920" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4910"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4912" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4914" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4904"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4906" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4908" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4898"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4900" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4902" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4892"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4894" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4896" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4886"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4888" />
+      <stop
+         style="stop-color:#414141;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4890" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4880"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4882" />
+      <stop
+         style="stop-color:#292929;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4884" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4874"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4876" />
+      <stop
+         style="stop-color:#232323;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4878" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4868"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4870" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4872" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4862"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4864" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4866" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4856"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4858" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4860" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4850"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4852" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4854" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4844"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4846" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4848" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4838"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4840" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4842" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4832"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4834" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4836" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4826"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4828" />
+      <stop
+         style="stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4830" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4820"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4822" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.8698225"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4824" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4814"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4816" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.8698225"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4818" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4808"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4810" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.87573963"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4812" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4802"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4804" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.88165683"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4806" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4796"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4798" />
+      <stop
+         style="stop-color:#ff4848;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4800" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4790"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4792" />
+      <stop
+         style="stop-color:#ff4848;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4794" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4784"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4786" />
+      <stop
+         style="stop-color:#ff4848;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4788" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4778"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4780" />
+      <stop
+         style="stop-color:#ca2525;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4782" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4772"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4774" />
+      <stop
+         style="stop-color:#bb1d1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4776" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4766"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4768" />
+      <stop
+         style="stop-color:#ba1f1f;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4770" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4760"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4762" />
+      <stop
+         style="stop-color:#a82020;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4764" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4754"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4756" />
+      <stop
+         style="stop-color:#521e1e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4758" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4748"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4750" />
+      <stop
+         style="stop-color:#322222;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4752" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4742"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4744" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4746" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4736"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4738" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4740" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4730"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4732" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4734" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4724"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4726" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4728" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4716"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4718" />
+      <stop
+         style="stop-color:#00000f;stop-opacity:0.94117647"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4720" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4710"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4712" />
+      <stop
+         style="stop-color:#00000f;stop-opacity:0.94117647"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4714" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4704"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4706" />
+      <stop
+         style="stop-color:#d89ddf;stop-opacity:0.94117647"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4708" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4698"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4700" />
+      <stop
+         style="stop-color:#d89d9d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4702" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4692"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4694" />
+      <stop
+         style="stop-color:#d89d9d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4696" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4686"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4688" />
+      <stop
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4690" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4680"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4682" />
+      <stop
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4684" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4674"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4676" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4678" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5921"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5923" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5925" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5915"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5917" />
+      <stop
+         style="stop-color:#6a6a6a;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5919" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5909"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5911" />
+      <stop
+         style="stop-color:#333333;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5913" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5903"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5905" />
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5907" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5897"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5899" />
+      <stop
+         style="stop-color:#2b2a24;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5901" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5891"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5893" />
+      <stop
+         style="stop-color:#2b2a24;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5895" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5885"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5887" />
+      <stop
+         style="stop-color:#25241f;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5889" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5879"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5881" />
+      <stop
+         style="stop-color:#282822;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5883" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5873"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5875" />
+      <stop
+         style="stop-color:#2d2c26;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5877" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5867"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5869" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5871" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5861"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5863" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5865" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5855"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5857" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5859" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5849"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5851" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5853" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5843"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5845" />
+      <stop
+         style="stop-color:#e1007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5847" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5837"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5839" />
+      <stop
+         style="stop-color:#e1007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5841" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5831"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5833" />
+      <stop
+         style="stop-color:#e1007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5835" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5825"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5827" />
+      <stop
+         style="stop-color:#d6007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5829" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5819"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5821" />
+      <stop
+         style="stop-color:#36007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5823" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5813"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5815" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5817" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5807"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5809" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5811" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5801"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5803" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.42603549"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5805" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5795"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5797" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.57988167"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5799" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5789"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5791" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.73372781"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5793" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5783"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5785" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5787" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5777"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5779" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5781" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5771"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5773" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5775" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5765"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5767" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.39644971"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5769" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5759"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5761" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:0.39644971"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5763" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5753"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5755" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5757" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5747"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5749" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5751" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5741"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5743" />
+      <stop
+         style="stop-color:#00007d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5745" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5735"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5737" />
+      <stop
+         style="stop-color:#00005b;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5739" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5729"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5731" />
+      <stop
+         style="stop-color:#000042;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5733" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5723"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5725" />
+      <stop
+         style="stop-color:#005c00;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5727" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5717"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5719" />
+      <stop
+         style="stop-color:#005c00;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5721" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5711"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5713" />
+      <stop
+         style="stop-color:#005c00;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5715" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5705"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5707" />
+      <stop
+         style="stop-color:#004400;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5709" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5699"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5701" />
+      <stop
+         style="stop-color:#003900;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5703" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5693"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5695" />
+      <stop
+         style="stop-color:#008300;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5697" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5687"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5689" />
+      <stop
+         style="stop-color:#008300;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5691" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5681"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5683" />
+      <stop
+         style="stop-color:#008300;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5685" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5675"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5677" />
+      <stop
+         style="stop-color:#006700;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5679" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5669"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5671" />
+      <stop
+         style="stop-color:#004700;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5673" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5663"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5665" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5667" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5657"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5659" />
+      <stop
+         style="stop-color:#989898;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5661" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5651"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5653" />
+      <stop
+         style="stop-color:#a5a5a5;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5655" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5645"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5647" />
+      <stop
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5649" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5639"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5641" />
+      <stop
+         style="stop-color:#bfbfbf;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5643" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5633"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5635" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5637" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5627"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5629" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5631" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5621"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5623" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5625" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5615"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5617" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5619" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5609"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5611" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5613" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5603"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5605" />
+      <stop
+         style="stop-color:#ebebeb;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5607" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5597"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5599" />
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5601" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5591"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5593" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5595" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5585"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5587" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5589" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5579"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5581" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5583" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5573"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5575" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5577" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5567"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5569" />
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5571" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5561"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5563" />
+      <stop
+         style="stop-color:#d4d4d4;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5565" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5555"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5557" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5559" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5549"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5551" />
+      <stop
+         style="stop-color:#c4c4c4;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5553" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5543"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5545" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5547" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5537"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5539" />
+      <stop
+         style="stop-color:#9c9c9c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5541" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5531"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5533" />
+      <stop
+         style="stop-color:#838383;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5535" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5525"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5527" />
+      <stop
+         style="stop-color:#6d6d6d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5529" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5519"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5521" />
+      <stop
+         style="stop-color:#5e5e5e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5523" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5513"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5515" />
+      <stop
+         style="stop-color:#585858;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5517" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5507"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5509" />
+      <stop
+         style="stop-color:#536947;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5511" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5501"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5503" />
+      <stop
+         style="stop-color:#526746;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5505" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5495"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5497" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5499" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5489"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5491" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5493" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5483"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5485" />
+      <stop
+         style="stop-color:#444444;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5487" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5477"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5479" />
+      <stop
+         style="stop-color:#444444;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5481" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5471"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5473" />
+      <stop
+         style="stop-color:#343434;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5475" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5465"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5467" />
+      <stop
+         style="stop-color:#1e1e1e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5469" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5459"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5461" />
+      <stop
+         style="stop-color:#434343;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5463" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5453"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5455" />
+      <stop
+         style="stop-color:#434343;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5457" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5447"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5449" />
+      <stop
+         style="stop-color:#434343;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5451" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5441"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5443" />
+      <stop
+         style="stop-color:#010101;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5445" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5435"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5437" />
+      <stop
+         style="stop-color:#010101;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5439" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5429"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5431" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5433" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5423"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5425" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5427" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5417"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5419" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5421" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5411"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5413" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5415" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5405"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5407" />
+      <stop
+         style="stop-color:#2e2e2e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5409" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5399"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5401" />
+      <stop
+         style="stop-color:#2c2c2c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5403" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5393"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5395" />
+      <stop
+         style="stop-color:#2c2c2c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5397" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5387"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5389" />
+      <stop
+         style="stop-color:#1b1b1b;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5391" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5381"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5383" />
+      <stop
+         style="stop-color:#313131;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5385" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5375"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5377" />
+      <stop
+         style="stop-color:#313131;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5379" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5369"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5371" />
+      <stop
+         style="stop-color:#313131;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5373" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5363"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5365" />
+      <stop
+         style="stop-color:#272727;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5367" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5357"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5359" />
+      <stop
+         style="stop-color:#181818;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5361" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5351"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5353" />
+      <stop
+         style="stop-color:#030303;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5355" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5345"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5347" />
+      <stop
+         style="stop-color:#996363;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5349" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5339"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5341" />
+      <stop
+         style="stop-color:#976565;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5343" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5333"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5335" />
+      <stop
+         style="stop-color:#956767;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5337" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5327"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5329" />
+      <stop
+         style="stop-color:#946767;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5331" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5321"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5323" />
+      <stop
+         style="stop-color:#7e7e7e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5325" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5315"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5317" />
+      <stop
+         style="stop-color:#7e7e7e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5319" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5309"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5311" />
+      <stop
+         style="stop-color:#737373;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5313" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5303"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5305" />
+      <stop
+         style="stop-color:#5b5b5b;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5307" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5297"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5299" />
+      <stop
+         style="stop-color:#4c4c4c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5301" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5291"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5293" />
+      <stop
+         style="stop-color:#4e3131;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5295" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5285"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5287" />
+      <stop
+         style="stop-color:#4c3030;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5289" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5279"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5281" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5283" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5273"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5275" />
+      <stop
+         style="stop-color:#4e2929;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5277" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5267"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5269" />
+      <stop
+         style="stop-color:#4e2929;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5271" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5261"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5263" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5265" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5255"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5257" />
+      <stop
+         style="stop-color:#505050;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5259" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5249"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5251" />
+      <stop
+         style="stop-color:#505050;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5253" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5243"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5245" />
+      <stop
+         style="stop-color:#4f4f4f;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5247" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5237"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5239" />
+      <stop
+         style="stop-color:#3f4d32;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5241" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5231"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5233" />
+      <stop
+         style="stop-color:#3f4d32;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5235" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5225"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5227" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5229" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5219"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5221" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5223" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5213"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5215" />
+      <stop
+         style="stop-color:#6f7a45;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5217" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5207"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5209" />
+      <stop
+         style="stop-color:#6f7a45;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5211" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5201"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5203" />
+      <stop
+         style="stop-color:#6d7844;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5205" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5195"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5197" />
+      <stop
+         style="stop-color:#4f5732;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5199" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5189"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5191" />
+      <stop
+         style="stop-color:#484f2d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5193" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5183"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5185" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5187" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5177"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5179" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5181" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5171"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5173" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5175" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5165"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5167" />
+      <stop
+         style="stop-color:#2a2f1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5169" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5159"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5161" />
+      <stop
+         style="stop-color:#2a2f1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5163" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5153"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5155" />
+      <stop
+         style="stop-color:#2e2f1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5157" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5147"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5149" />
+      <stop
+         style="stop-color:#2f2c1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5151" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5141"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5143" />
+      <stop
+         style="stop-color:#2f1d1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5145" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5135"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5137" />
+      <stop
+         style="stop-color:#2f1d1d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5139" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5129"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5131" />
+      <stop
+         style="stop-color:#271919;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5133" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5123"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5125" />
+      <stop
+         style="stop-color:#180f0f;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5127" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5117"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5119" />
+      <stop
+         style="stop-color:#160e0e;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5121" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5111"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5113" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5115" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5105"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5107" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5109" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5099"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5101" />
+      <stop
+         style="stop-color:#555555;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5103" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5093"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5095" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5097" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5087"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5089" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5091" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5081"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5083" />
+      <stop
+         style="stop-color:#676767;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5085" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5075"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5077" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5079" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5069"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5071" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5073" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5063"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5065" />
+      <stop
+         style="stop-color:#4c4c4c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5067" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5057"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5059" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5061" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5051"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5053" />
+      <stop
+         style="stop-color:#cdcdcd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5055" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5045"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5047" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5049" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5039"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5041" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5043" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5033"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5035" />
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5037" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5027"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5029" />
+      <stop
+         style="stop-color:#ededed;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5031" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5021"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5023" />
+      <stop
+         style="stop-color:#dbdbdb;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5025" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5015"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5017" />
+      <stop
+         style="stop-color:#cacaca;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5019" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5009"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5011" />
+      <stop
+         style="stop-color:#b6b6b6;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5013" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient5003"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop5005" />
+      <stop
+         style="stop-color:#7c7c7c;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5007" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4997"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4999" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop5001" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4991"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4993" />
+      <stop
+         style="stop-color:#262626;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4995" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4985"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4987" />
+      <stop
+         style="stop-color:#242424;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4989" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4979"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4981" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4983" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4973"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4975" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4977" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4967"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4969" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4971" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4961"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4963" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4965" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4955"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4957" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4959" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4949"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4951" />
+      <stop
+         style="stop-color:#00000f;stop-opacity:0.94117647"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4953" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4943"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4945" />
+      <stop
+         style="stop-color:#0ff000;stop-opacity:0"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4947" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4937"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4939" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4941" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4931"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4933" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4935" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4925"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4927" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4929" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4919"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4921" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4923" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4913"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4915" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4917" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4907"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4909" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4911" />
+    </radialGradient>
+    <radialGradient
+       spreadMethod="pad"
+       gradientUnits="objectBoundingBox"
+       id="radialGradient4901"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.85000002"
+       fy="0.85000002">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4903" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4905" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4895"
+       cx="50%"
+       cy="50%"
+       r="50%"
+       fx="85%"
+       fy="85%">
+      <stop
+         stop-color="#fff"
+         offset="0%"
+         id="stop4897" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         stop-color="#000"
+         offset="100%"
+         opacity="0"
+         id="stop4899" />
+    </radialGradient>
+    <clipPath
+       id="clip">
+      <path
+         id="path4320"
+         d="m300 300 -300 -50 350 350 -50 -300 300 -50 -250 -250 z" />
+    </clipPath>
+    <clipPath
+       id="circ">
+      <circle
+         id="circle4323"
+         cy="300"
+         cx="300"
+         r="287" />
+    </clipPath>
+    <radialGradient
+       xlink:href="#g2"
+       fy="0.15000001"
+       fx="0.15000001"
+       r="0.5"
+       cy="0.5"
+       cx="0.5"
+       id="g1">
+      <stop
+         id="stop4326"
+         offset="0%"
+         stop-color="#fff" />
+      <stop
+         style="stop-color:#026370;stop-opacity:1"
+         id="stop4328"
+         opacity="0"
+         offset="100%"
+         stop-color="#000" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#radialGradient5246"
+       fy="85%"
+       fx="85%"
+       r="50%"
+       cy="50%"
+       cx="50%"
+       id="g2">
+      <stop
+         id="stop4331"
+         offset="0%"
+         stop-color="#fff" />
+      <stop
+         id="stop4333"
+         opacity="0"
+         offset="100%"
+         stop-color="#000" />
+    </radialGradient>
+    <radialGradient
+       r="0.5"
+       fy="0.85000002"
+       fx="0.85000002"
+       cy="0.5"
+       cx="0.5"
+       id="radialGradient5334"
+       xlink:href="#radialGradient4674" />
+  </defs>
+  <circle
+     style="fill:#026370;fill-opacity:1"
+     id="circle4335"
+     stroke-width="6"
+     stroke="#000"
+     fill="#000"
+     cy="300"
+     cx="300"
+     r="290" />
+  <rect
+     style="fill-opacity:1.0"
+     id="rect4337"
+     clip-path="url(#circ)"
+     fill="url(#g1)"
+     height="300"
+     width="300" />
+  <rect
+     style="fill-opacity:1;fill:url(#radialGradient5334)"
+     id="rect4339"
+     clip-path="url(#circ)"
+     fill="url(#g2)"
+     height="300"
+     width="300"
+     y="300"
+     x="300" />
+  <circle
+     id="circle4341"
+     fill="#000"
+     cy="300"
+     cx="300"
+     r="150" />
+  <circle
+     id="circle4343"
+     stroke-width="5"
+     stroke="#444"
+     fill="#333"
+     cy="300"
+     cx="300"
+     r="100" />
+  <circle
+     id="circle4345"
+     fill="#eee"
+     cy="300"
+     cx="300"
+     r="80" />
+  <circle
+     id="circle4347"
+     fill="#000"
+     cy="300"
+     cx="300"
+     r="8" />
+  <circle
+     id="circle4349"
+     clip-path="url(#clip)"
+     stroke-width="5"
+     stroke="#ccc"
+     fill="none"
+     cy="300"
+     cx="300"
+     r="90" />
+</svg>
