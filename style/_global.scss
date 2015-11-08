@@ -1,5 +1,12 @@
+/* Border-box sizing everywhere */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   margin: 0;
-
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }

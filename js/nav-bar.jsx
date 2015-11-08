@@ -4,7 +4,7 @@ import "../style/nav-bar.scss";
 
 import React from "react";
 
-import LobbyUrl from "./components/nav-bar/lobby-url.jsx";
+import CopyToClipboardButton from "./components/common/copy-to-clipboard-button.jsx";
 
 export default class NavBar extends React.Component {
   render() {
@@ -17,7 +17,11 @@ export default class NavBar extends React.Component {
             <span className="title">clipboard.dj</span>
           </div>
 
-          <LobbyUrl />
+          <div className="lobby-url">
+            <span className="label">Invite friends:&nbsp;</span>
+            <input id="lobbyUrl" type="text" value="http://filler-url" readOnly="true" />
+            <CopyToClipboardButton targetSelector="#lobbyUrl" />
+          </div>
 
         </nav>
       </div>

@@ -1,0 +1,13 @@
+.copy-to-clipboard-button {
+  flex: 0 0 auto;
+
+  width: 40px;
+  height: 100%;
+  border: 1px solid #cccccc;
+  cursor: pointer;
+
+  img {
+    width: 14px;
+    height: 16px;
+  }
+}

@@ -47,7 +47,6 @@
   align-items: center;
 
   height: 30px;
-  margin-left: auto;
   margin-right: 1em;
 
   font-size: 14pt;
@@ -58,14 +57,16 @@
   }
 
   input {
-    flex: 1 1 auto;
+    flex: 1 1 20px;
 
     padding: 3px;
     font-size: 12pt;
     color: black;
     background-color: white;
-    border: 1px inset #cccccc;
-    min-width: 0;
+    border: 1px #cccccc;
+    min-width: 20px;
+    height: 100%;
+    cursor: text;
 
     &:focus {
       outline: none;
