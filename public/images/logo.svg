@@ -5433,14 +5433,6 @@
          offset="100%"
          stop-color="#000" />
     </radialGradient>
-    <radialGradient
-       r="0.5"
-       fy="0.85000002"
-       fx="0.85000002"
-       cy="0.5"
-       cx="0.5"
-       id="radialGradient5334"
-       xlink:href="#radialGradient4674" />
   </defs>
   <circle
      style="fill:#026370;fill-opacity:1"
@@ -5451,22 +5443,6 @@
      cy="300"
      cx="300"
      r="290" />
-  <rect
-     style="fill-opacity:1.0"
-     id="rect4337"
-     clip-path="url(#circ)"
-     fill="url(#g1)"
-     height="300"
-     width="300" />
-  <rect
-     style="fill-opacity:1;fill:url(#radialGradient5334)"
-     id="rect4339"
-     clip-path="url(#circ)"
-     fill="url(#g2)"
-     height="300"
-     width="300"
-     y="300"
-     x="300" />
   <circle
      id="circle4341"
      fill="#000"
@@ -5482,8 +5458,8 @@
      cx="300"
      r="100" />
   <circle
-     id="circle4345"
      fill="#eee"
+     id="circle4345"
      cy="300"
      cx="300"
      r="80" />
@@ -5493,13 +5469,4 @@
      cy="300"
      cx="300"
      r="8" />
-  <circle
-     id="circle4349"
-     clip-path="url(#clip)"
-     stroke-width="5"
-     stroke="#ccc"
-     fill="none"
-     cy="300"
-     cx="300"
-     r="90" />
 </svg>

@@ -1,0 +1,48 @@
+@import "../../colors";
+@import "../../utils";
+
+.track {
+  @include ellipsizedText();
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  color: $lighter-body-text;
+
+  &>* {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+
+  img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .artist {
+    font-size: 1.2em;
+    color: $darker-body-text;
+  }
+
+  .title {
+    font-size: 1.5em;
+  }
+}
+
+/* Large view for currently-playing track */
+.track.large {
+  img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .artist {
+    font-size: 1.5em;
+  }
+
+  .title {
+    font-size: 2em;
+  }
+}

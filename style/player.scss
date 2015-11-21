@@ -1,9 +1,26 @@
 @import "./global";
+@import "./colors";
 
-body {
-  background-color: #1c1c1c;
+.player-wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+
+  height: 100%;
+
+  .player {
+    flex: 1 0 auto;
+  }
 }
 
 .player {
+  display: flex;
+  justify-content: center;
 
+  width: 100%;
+  padding: 1em;
+
+  .playlist {
+    flex: 0 1 45%;
+  }
 }

@@ -1,12 +1,19 @@
 /* Border-box sizing everywhere */
 html {
   box-sizing: border-box;
+  height: 100%;
 }
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
 body {
-  margin: 0;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: #1c1c1c;
+  margin: 0;
+  height: 100%;
+}
+
+#page-wrapper {
+  height: 100%;
 }
