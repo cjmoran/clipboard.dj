@@ -1,4 +1,12 @@
-.playlist {
+ul.playlist {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+
   width: 100%;
   max-width: 960px;
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

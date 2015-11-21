@@ -3,16 +3,16 @@
 import "../../../style/components/player/track.scss";
 
 var Track = ({albumArt, artist, title, addedBy}) => (
-    <div className="track">
+    <li className="track">
       <img src={albumArt} />
 
-      <div>
+      <div className="artist-title-wrapper">
         <div className="artist">{artist}</div>
         <div className="title">{title}</div>
       </div>
 
-      <span>{addedBy}</span>
-    </div>
+      <span className="added-by">{addedBy}</span>
+    </li>
 );
 
 export default Track;

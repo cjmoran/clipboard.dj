@@ -1,14 +1,11 @@
 @import "../../colors";
 @import "../../utils";
 
-.track {
-  @include ellipsizedText();
-
+li.track {
   display: flex;
   align-items: center;
   justify-content: space-between;
 
-  width: 100%;
   color: $lighter-body-text;
 
   &>* {
@@ -21,18 +18,30 @@
     height: 80px;
   }
 
+  .artist-title-wrapper {
+    overflow: hidden;
+  }
+
   .artist {
+    @include ellipsizedText;
+
     font-size: 1.2em;
     color: $darker-body-text;
   }
 
   .title {
+    @include ellipsizedText;
+
     font-size: 1.5em;
+  }
+
+  .added-by {
+    white-space: nowrap;
   }
 }
 
 /* Large view for currently-playing track */
-.track.large {
+li.track.large {
   img {
     width: 120px;
     height: 120px;
