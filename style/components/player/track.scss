@@ -8,7 +8,7 @@ li.track {
 
   color: $lighter-body-text;
 
-  $item-margin: 0.5em;
+  $item-margin: 1em;
 
   img {
     margin-right: $item-margin;
@@ -17,8 +17,8 @@ li.track {
   }
 
   .artist-title-wrapper {
-    margin-left: $item-margin;
-    margin-right: $item-margin;
+    margin-left: 0;
+    margin-right: auto;
     overflow: hidden;
 
     .artist {
