@@ -8,5 +8,19 @@ ul.playlist {
 
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 0 2em 0 2em;
+
+  .header {
+    display: flex;
+    align-items: center;
+
+    width: 100%;
+    min-width: 200px;
+    height: 1em;
+
+    .added-by-label {
+      margin-left: auto;
+      margin-right: 0;
+    }
+  }
 }

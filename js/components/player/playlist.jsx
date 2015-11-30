@@ -10,6 +10,11 @@ export default class Playlist extends React.Component {
   render() {
     return (
         <ul className="playlist">
+
+          <div className="header">
+            <span className="added-by-label">added by</span>
+          </div>
+
           <Track
               albumArt="/public/images/testing-static/albumArt.png"
               artist="OBESØN"

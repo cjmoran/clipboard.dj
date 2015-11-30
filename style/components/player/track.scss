@@ -8,34 +8,34 @@ li.track {
 
   color: $lighter-body-text;
 
-  &>* {
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-  }
+  $item-margin: 0.5em;
 
   img {
+    margin-right: $item-margin;
     width: 80px;
     height: 80px;
   }
 
   .artist-title-wrapper {
+    margin-left: $item-margin;
+    margin-right: $item-margin;
     overflow: hidden;
-  }
 
-  .artist {
-    @include ellipsizedText;
+    .artist {
+      @include ellipsizedText;
 
-    font-size: 1.2em;
-    color: $darker-body-text;
-  }
+      font-size: 1.2em;
+      color: $darker-body-text;
+    }
 
-  .title {
-    @include ellipsizedText;
-
-    font-size: 1.5em;
+    .title {
+      @include ellipsizedText;
+      font-size: 1.5em;
+    }
   }
 
   .added-by {
+    margin-left: $item-margin;
     white-space: nowrap;
   }
 }
