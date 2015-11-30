@@ -4,11 +4,13 @@ ul.playlist {
   align-items: stretch;
 
   width: 100%;
+  min-width: 200px;
   max-width: 960px;
 
   list-style-type: none;
   margin: 0;
-  padding: 0 2em 0 2em;
+  padding: 2em 2em 0 2em;
+  background-color: #161616;
 
   .header {
     display: flex;
