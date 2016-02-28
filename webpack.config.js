@@ -14,18 +14,15 @@ module.exports = {
     loaders: [
       {
         // Build JS and JSX with Babel
+        loader: "babel-loader",
         test: /\.(js|jsx)$/,
-        include: [
-            path.resolve(__dirname, "js")
-        ],
-        loader: "babel-loader"
+        include: [ path.resolve(__dirname, "js") ],
+        query: { presets: ["es2015", "react"] }
       },
       {
         // Compile SCSS into CSS and allow requiring from JS files
         test: /\.scss$/,
-        include: [
-            path.resolve(__dirname, "style")
-        ],
+        include: [ path.resolve(__dirname, "style") ],
         loaders: ["style", "css", "sass"]
       }
     ]
