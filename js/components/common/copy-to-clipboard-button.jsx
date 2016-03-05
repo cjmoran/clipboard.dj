@@ -8,7 +8,7 @@ import Clipboard from "clipboard";
 export default class CopyToClipboardButton extends React.Component {
   constructor() {
     super();
-    this.clipboardLibrary = null;
+    this.clipboardLib = null;
   }
 
   render() {
@@ -22,10 +22,10 @@ export default class CopyToClipboardButton extends React.Component {
   }
 
   componentDidMount() {
-    this.clipboardLibrary = new Clipboard("#copy-lobby-url-button");
+    this.clipboardLib = new Clipboard("#copy-lobby-url-button");
   }
 
   componentWillUnmount() {
-    this.clipboardLibrary.destroy();
+    this.clipboardLib.destroy();
   }
 }

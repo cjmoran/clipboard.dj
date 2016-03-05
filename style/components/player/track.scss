@@ -11,6 +11,8 @@ li.track {
   $item-margin: 1em;
 
   img {
+    flex: 0 0 auto;
+
     margin-right: $item-margin;
     width: 80px;
     height: 80px;
@@ -24,13 +26,13 @@ li.track {
     .artist {
       @include ellipsizedText;
 
-      font-size: 1.2em;
+      font-size: 0.9em;
       color: $darker-body-text;
     }
 
     .title {
       @include ellipsizedText;
-      font-size: 1.5em;
+      font-size: 1em;
     }
   }
 
@@ -41,17 +43,17 @@ li.track {
 }
 
 /* Large view for currently-playing track */
-li.track.large {
+li.track.now-playing {
   img {
     width: 120px;
     height: 120px;
   }
 
   .artist {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 
   .title {
-    font-size: 2em;
+    font-size: 1.2em;
   }
 }

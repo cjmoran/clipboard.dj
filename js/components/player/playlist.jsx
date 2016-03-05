@@ -19,7 +19,13 @@ export default class Playlist extends React.Component {
               albumArt="/public/images/testing-static/albumArt.png"
               artist="OBESØN"
               title="Control Me (Feat. Sakima)"
-              addedBy="your mom" />
+              addedBy="username" />
+
+          <Track
+              albumArt="/public/images/testing-static/albumArt.png"
+              artist="OBESØN"
+              title="Control Me (Feat. Sakima)"
+              addedBy="username" />
         </ul>
     );
   }
