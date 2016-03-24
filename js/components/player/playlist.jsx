@@ -8,6 +8,21 @@ import Track from "./track.jsx";
 
 export default class Playlist extends React.Component {
   render() {
+    const tracks = [
+      {
+        albumArt: "/public/images/testing-static/albumArt.png",
+        artist: "OBESØN",
+        title: "Control Me (Feat. Sakima)",
+        addedBy: "username"
+      },
+      {
+        albumArt: "/public/images/testing-static/albumArt.png",
+        artist: "OBESØN",
+        title: "Control Me (Feat. Sakima)",
+        addedBy: "username"
+      }
+    ];
+
     return (
         <ul className="playlist">
 
@@ -15,17 +30,15 @@ export default class Playlist extends React.Component {
             <span className="added-by-label">added by</span>
           </div>
 
-          <Track
-              albumArt="/public/images/testing-static/albumArt.png"
-              artist="OBESØN"
-              title="Control Me (Feat. Sakima)"
-              addedBy="username" />
-
-          <Track
-              albumArt="/public/images/testing-static/albumArt.png"
-              artist="OBESØN"
-              title="Control Me (Feat. Sakima)"
-              addedBy="username" />
+          {tracks.map( (track, index) => {
+            return <Track
+                key={index}
+                nowPlaying={index === 0}
+                albumArt={track.albumArt}
+                artist={track.artist}
+                title={track.title}
+                addedBy={track.addedBy}  />
+          })}
         </ul>
     );
   }

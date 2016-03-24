@@ -1,10 +1,13 @@
 "use strict";
 
+import classNames from "classnames";
 import "../../../style/components/player/track.scss";
 
-export default ({albumArt, artist, title, addedBy}) => (
-    <li className="track now-playing">
-      <img src={albumArt} />
+export default ({nowPlaying, albumArt, artist, title, addedBy}) => (
+    <li className={classNames("track", {"now-playing": nowPlaying})}>
+      <div className="album-art">
+        <img src={albumArt} />
+      </div>
 
       <div className="artist-title-wrapper">
         <div className="artist">{artist}</div>

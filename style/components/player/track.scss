@@ -9,13 +9,23 @@ li.track {
   color: $lighter-body-text;
 
   $item-margin: 1em;
+  margin-bottom: 1em;
 
-  img {
+  .album-art {
     flex: 0 0 auto;
 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     margin-right: $item-margin;
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
+
+    img {
+      width: 80px;
+      height: 80px;
+    }
   }
 
   .artist-title-wrapper {
@@ -44,7 +54,7 @@ li.track {
 
 /* Large view for currently-playing track */
 li.track.now-playing {
-  img {
+  .album-art img {
     width: 120px;
     height: 120px;
   }

@@ -1,0 +1,12 @@
+.url-paste-box {
+  display: flex;
+  align-items: center;
+
+  height: 60px;
+  background-color: #3ba5b4;
+
+  .label {
+    border: 5px solid #009bae;
+    border-radius: 5px;
+  }
+}
