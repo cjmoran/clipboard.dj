@@ -1,12 +1,43 @@
 .url-paste-box {
   display: flex;
   align-items: center;
+  justify-content: center;
 
-  height: 60px;
+  height: 50px;
   background-color: #3ba5b4;
+  box-shadow: 0 3px 4px #111111;
 
   .label {
-    border: 5px solid #009bae;
-    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 0.5em 1em 0.5em 1em;
+    background-color: #026370;
+    height: 100%;
+  }
+
+  input {
+    flex: 1 1 auto;
+    font-size: larger;
+    height: 100%;
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #35828D linear-gradient(#35828D, #026674);
+    border: none;
+    padding: 0;
+    width: 65px;
+    height: 100%;
+    cursor: pointer;
+
+    img {
+      width: 50px;
+      height: 50px;
+    }
   }
 }

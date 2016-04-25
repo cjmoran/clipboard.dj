@@ -16,7 +16,7 @@ export default class CopyToClipboardButton extends React.Component {
 
     return (
         <button id="copy-lobby-url-button" className="copy-to-clipboard-button" data-clipboard-target={targetSelector}>
-          <img src="public/images/copy-to-clipboard.svg" alt="Copy to clipboard" />
+          <img src="images/copy-to-clipboard.svg" alt="Copy to clipboard" />
         </button>
     );
   }

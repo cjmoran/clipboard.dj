@@ -3,26 +3,23 @@ ul.playlist {
   flex-flow: column nowrap;
   align-items: stretch;
 
-  width: 100%;
-  min-width: 200px;
-  max-width: 960px;
-
   list-style-type: none;
   margin: 0;
-  padding: 2em 2em 0 2em;
+  padding: 1em 2em 0 2em;
   background-color: #161616;
 
   .header {
-    display: flex;
-    align-items: center;
-
     width: 100%;
-    min-width: 200px;
-    height: 1em;
+    text-align: right;
+    margin-bottom: 1em;
 
     .added-by-label {
-      margin-left: auto;
-      margin-right: 0;
+      margin: 0 0 0 auto;
+    }
+
+    hr {
+      margin: 0.25em 0 0 0;
+      border-color: #1C1C1C;
     }
   }
 }

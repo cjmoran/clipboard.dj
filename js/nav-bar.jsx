@@ -13,7 +13,7 @@ export default class NavBar extends React.Component {
         <nav className="nav-bar">
 
           <div className="logo-title">
-            <img className="logo" src="/public/images/logo.svg" />
+            <img className="logo" src="/images/logo.svg" />
             <span className="title">clipboard.dj</span>
           </div>
 

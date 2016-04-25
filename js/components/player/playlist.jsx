@@ -10,13 +10,13 @@ export default class Playlist extends React.Component {
   render() {
     const tracks = [
       {
-        albumArt: "/public/images/testing-static/albumArt.png",
+        albumArt: "/images/testing-static/albumArt.png",
         artist: "OBESØN",
         title: "Control Me (Feat. Sakima)",
         addedBy: "username"
       },
       {
-        albumArt: "/public/images/testing-static/albumArt.png",
+        albumArt: "/images/testing-static/albumArt.png",
         artist: "OBESØN",
         title: "Control Me (Feat. Sakima)",
         addedBy: "username"
@@ -28,6 +28,7 @@ export default class Playlist extends React.Component {
 
           <div className="header">
             <span className="added-by-label">added by</span>
+            <hr />
           </div>
 
           {tracks.map( (track, index) => {
