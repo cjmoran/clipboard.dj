@@ -13,8 +13,11 @@ ul.playlist {
     text-align: right;
     margin-bottom: 1em;
 
-    .added-by-label {
-      margin: 0 0 0 auto;
+    .header-text {
+      display: flex;
+      justify-content: space-between;
+
+      width: 100%;
     }
 
     hr {

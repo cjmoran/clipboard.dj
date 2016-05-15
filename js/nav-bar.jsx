@@ -17,10 +17,10 @@ export default class NavBar extends React.Component {
             <span className="title">clipboard.dj</span>
           </div>
 
-          <div className="lobby-url">
+          <div className="room-url">
             <span className="label">Invite friends:&nbsp;</span>
-            <input id="lobbyUrl" type="text" value="http://filler-url" readOnly="true" />
-            <CopyToClipboardButton targetSelector="#lobbyUrl" />
+            <input id="roomUrl" type="text" value="http://filler-url" readOnly="true" />
+            <CopyToClipboardButton targetSelector="#roomUrl" />
           </div>
 
         </nav>

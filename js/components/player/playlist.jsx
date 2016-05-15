@@ -27,7 +27,10 @@ export default class Playlist extends React.Component {
         <ul className="playlist">
 
           <div className="header">
-            <span className="added-by-label">added by</span>
+            <div className="header-text">
+              <span className="now-playing-label">now playing</span>
+              <span className="added-by-label">added by</span>
+            </div>
             <hr />
           </div>
 
@@ -38,7 +41,7 @@ export default class Playlist extends React.Component {
                 albumArt={track.albumArt}
                 artist={track.artist}
                 title={track.title}
-                addedBy={track.addedBy}  />
+                addedBy={track.addedBy} />
           })}
         </ul>
     );
