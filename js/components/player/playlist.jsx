@@ -10,16 +10,16 @@ export default class Playlist extends React.Component {
   render() {
     const tracks = [
       {
-        albumArt: "/images/testing-static/albumArt.png",
-        artist: "OBESØN",
-        title: "Control Me (Feat. Sakima)",
-        addedBy: "username"
+        albumArt: "/images/testing-static/placeholder-album-art.png",
+        artist: "Track Artist",
+        title: "Track Title",
+        addedBy: "user who added it"
       },
       {
-        albumArt: "/images/testing-static/albumArt.png",
-        artist: "OBESØN",
-        title: "Control Me (Feat. Sakima)",
-        addedBy: "username"
+        albumArt: "/images/testing-static/placeholder-album-art.png",
+        artist: "Track Artist",
+        title: "Track Title",
+        addedBy: "user who added it"
       }
     ];
 
