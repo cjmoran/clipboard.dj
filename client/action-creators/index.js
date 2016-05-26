@@ -22,3 +22,14 @@ export function changeVolume(newValue) {
 export function updateRoomName(newName) {
   return {type: ActionTypes.UPDATE_ROOM_NAME, payload: newName};
 }
+
+export function addTrack(trackUrl) {
+  return (dispatch, getState) => {
+    //todo:
+    // dispatch(requestTrackData)
+
+    // use superagent to call server api
+    // .then( dispatch(receiveTrackData) )
+    // .catch( dispatch(onError) ) // or just use a different set of args in receiveTrackData?
+  };
+}

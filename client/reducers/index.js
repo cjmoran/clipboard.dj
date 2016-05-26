@@ -1,7 +1,7 @@
 "use strict";
 
 import {combineReducers} from "redux";
-import * as actions from "../actions/";
+import * as actions from "../action-creators/";
 
 function room(state = {name: ""}, action) {
   switch(action.type) {

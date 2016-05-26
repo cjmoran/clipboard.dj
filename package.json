@@ -28,7 +28,9 @@
     "react-dom": "^15.1.0",
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
-    "redux-logger": "^2.6.1"
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "superagent": "^2.0.0-alpha.3"
   },
   "engines": {
     "node": "6.2.*"
