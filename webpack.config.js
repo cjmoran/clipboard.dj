@@ -2,7 +2,7 @@ var path = require("path");
 
 module.exports = {
   entry: {
-    player: "./js/player.jsx"
+    player: "./client/player.jsx"
   },
 
   output: {
@@ -16,7 +16,7 @@ module.exports = {
         // Build JS and JSX with Babel
         loader: "babel-loader",
         test: /\.(js|jsx)$/,
-        include: [ path.resolve(__dirname, "js") ],
+        include: [ path.resolve(__dirname, "client") ],
         query: { presets: ["es2015", "react"] }
       },
       {
