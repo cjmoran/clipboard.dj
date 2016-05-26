@@ -2,8 +2,9 @@
 
 import "../style/player.scss";
 
+//noinspection JSUnresolvedVariable
+import ReactDOM from "react-dom";
 import React from "react";
-import {ReactDOM} from "react-dom";
 import {Provider} from "react-redux";
 import {compose, createStore, applyMiddleware} from "redux";
 import createLogger from "redux-logger";
@@ -36,4 +37,4 @@ class Player extends React.Component {
   }
 }
 
-ReactDOM.render(<Provider store={store}> <Player/> </Provider>, document.getElementById("page-wrapper"));
+ReactDOM.render(<Provider store={store}><Player/></Provider>, document.getElementById("page-wrapper"));
