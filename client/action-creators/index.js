@@ -25,11 +25,14 @@ export function updateRoomName(newName) {
 
 export function addTrack(trackUrl) {
   return (dispatch, getState) => {
-    //todo:
-    // dispatch(requestTrackData)
+    dispatch(requestTrackData());
 
     // use superagent to call server api
     // .then( dispatch(receiveTrackData) )
     // .catch( dispatch(onError) ) // or just use a different set of args in receiveTrackData?
   };
+}
+
+function requestTrackData() {
+  return {type: actionTypes.REQUEST_TRACK_DATA}
 }

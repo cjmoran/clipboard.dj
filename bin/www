@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 "use strict";
 
-const app = require('../app');
-const http = require('http');
+const app = require("../app");
+const http = require("http");
 
 // Check for port assignment from Cloud Foundry, default to 8080 for dev
 const port = process.env.port || 8080;

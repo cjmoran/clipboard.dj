@@ -1,5 +1,5 @@
-### IntelliJ project files
-.idea/
+### VS Code
+.vscode/
 
 ### Node
 npm-debug.log*
