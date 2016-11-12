@@ -8,4 +8,7 @@ npm-debug.log*
 build/
 
 # Dependencies
-node_modules
+node_modules/
+
+# SoundManager2 library's SWF files
+public/sm2-swfs/
