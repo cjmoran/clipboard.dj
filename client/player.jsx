@@ -32,6 +32,10 @@ class Player extends React.Component {
           <NavBar />
 
           <div className="player">
+            <a className="soundcloud-logo-link" href="https://soundcloud.com/" target="_blank">
+              <img src="/images/powered-by-soundcloud.png" />
+            </a>
+            
             <UrlPasteBox />
             <Playlist />
           </div>
