@@ -27,9 +27,18 @@ export function addTrack(trackUrl) {
   return (dispatch, getState) => {
     dispatch(requestTrackData());
 
-    // use superagent to call server api
+    /*
+    // Call "add song" api
+    request
+      .post("/playlist")
+      .send({trackUrl})
+      .end( () => {
+        this.setState({ inputDisabled: false });
+      });
+
     // .then( dispatch(receiveTrackData) )
     // .catch( dispatch(onError) ) // or just use a different set of args in receiveTrackData?
+    */
   };
 }
 

@@ -2,7 +2,7 @@
 
 import "../../../style/components/common/copy-to-clipboard-button.scss";
 
-import React from "react";
+import * as React from "react";
 import Clipboard from "clipboard";
 
 export default class CopyToClipboardButton extends React.Component {

@@ -4,12 +4,11 @@
   "description": "Multiplayer Radio",
   "private": true,
   "scripts": {
-    "build": "node ./node_modules/webpack/bin/webpack.js --display-error-details",
-    "start": "node --debug-brk=5858 ./bin/www",
-    "buildAndStart": "npm run build && npm run start"
+    "build": "webpack --display-error-details",
+    "start": "node ./bin/www"
   },
   "author": "Cullin Moran (github @culmor30)",
-  "license": "UNLICENSED",
+  "license": "GNU GPLv3",
   "devDependencies": {
     "babel-core": "^6.9.0",
     "babel-loader": "^6.2.4",

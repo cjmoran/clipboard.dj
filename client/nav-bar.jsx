@@ -2,7 +2,7 @@
 
 import "../style/nav-bar.scss";
 
-import React from "react";
+import * as React from "react";
 
 import CopyToClipboardButton from "./components/common/copy-to-clipboard-button.jsx";
 
