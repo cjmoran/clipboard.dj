@@ -15,6 +15,8 @@ import NavBar from "./nav-bar.jsx";
 import UrlPasteBox from "./components/player/url-paste-box.jsx";
 import Playlist from "./components/player/playlist.jsx";
 
+const socket = io.connect();
+
 const store = createStore(
     clipboardDjApp,
     compose(

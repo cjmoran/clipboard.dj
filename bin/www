@@ -1,13 +1,17 @@
 #!/usr/bin/env node
 "use strict";
 
-const app = require("../app");
 const http = require("http");
+const app = require("../app.js");
 
 // Check for port assignment from Cloud Foundry, default to 8080 for dev
 const port = process.env.port || 8080;
 
 const server = http.createServer(app);
-
 server.listen(port);
+
+// Start Socket.io and pass a reference to ../util/socket-handler.js
+const io = require("socket.io").listen(server);
+require("../util/socket-handler.js")(io);
+
 console.log(`Server listening on port ${port}`);
