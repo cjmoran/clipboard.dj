@@ -6,7 +6,7 @@ const cookieSession = require("cookie-session");
 const uuid = require("uuid");
 
 const roomRouter = require("./routes/room-router.js");
-const RoomUtils = require("./util/room-utils.js");
+const RoomHandler = require("./room-handler.js");
 
 const app = express();
 
@@ -41,7 +41,7 @@ app.use( (req, res, next) => {
 });
 
 // Handle arrival at root URL "/"
-app.get("/", RoomUtils.joinToNewRoom);
+app.get("/", RoomHandler.joinToNewRoom);
 
 // Handle "/room/*" URLs
 app.use("/room/", roomRouter);
