@@ -12,6 +12,6 @@ server.listen(port);
 
 // Start Socket.io and pass a reference to ../util/socket-handler.js
 const io = require("socket.io").listen(server);
-require("../util/socket-handler.js")(io);
+require("../util/socket-handler.js")(app, io);
 
 console.log(`Server listening on port ${port}`);

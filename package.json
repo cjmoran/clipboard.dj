@@ -27,7 +27,9 @@
     "babel-preset-react": "^6.16.0",
     "classnames": "^2.2.5",
     "clipboard": "^1.5.15",
+    "cookie-session": "^2.0.0-alpha.2",
     "css-loader": "^0.23.1",
+    "ejs": "^2.5.2",
     "express": "^4.14.0",
     "node-sass": "^3.11.2",
     "react": "^15.3.2",
@@ -37,10 +39,12 @@
     "redux-logger": "^2.7.4",
     "redux-thunk": "^2.1.0",
     "sass-loader": "^3.2.3",
+    "serve-favicon": "^2.3.0",
     "socket.io": "^1.5.1",
     "soundcloud": "^3.1.2",
     "soundmanager2": "^2.97.20150601-a",
     "superagent": "^2.3.0",
+    "uuid": "^2.0.3",
     "webpack": "^1.13.3"
   },
   "engines": {

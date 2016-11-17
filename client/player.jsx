@@ -1,4 +1,5 @@
 "use strict";
+/* global ServerInjected */
 
 import "../style/player.scss";
 
@@ -15,7 +16,8 @@ import NavBar from "./nav-bar.jsx";
 import UrlPasteBox from "./components/player/url-paste-box.jsx";
 import Playlist from "./components/player/playlist.jsx";
 
-const socket = io.connect();
+// Connect to the server-determined Socket.io namespace
+const socket = io.connect(`/${ServerInjected.roomName}`);
 
 const store = createStore(
     clipboardDjApp,
@@ -28,7 +30,7 @@ class Player extends React.Component {
   render() {
     return (
         <div className="player-wrapper">
-          <NavBar />
+          <NavBar roomName={ServerInjected.roomName} />
 
           <div className="player">
             <a className="soundcloud-logo-link" href="https://soundcloud.com/" target="_blank">
