@@ -9,7 +9,7 @@ router.get("/:roomName", function(req, res) {
   const requestedRoom = req.params.roomName;
 
   // If room doesn't exist
-  if(!RoomHandler.roomData.has(requestedRoom)) {
+  if(!RoomHandler.currentRooms.has(requestedRoom)) {
     return res.status(404).end("Couldn't find a room with that name.");
   }
 
@@ -21,7 +21,7 @@ router.get("/:roomName", function(req, res) {
 router.get("/", function(req, res) {
   // Create room
   let roomName = RoomHandler.generateRoomName();
-  while(RoomHandler.roomData.has(roomName)) { roomName = RoomHandler.generateRoomName(); }
+  while(RoomHandler.currentRooms.has(roomName)) { roomName = RoomHandler.generateRoomName(); }
   const room = RoomHandler.createRoom(req.app.locals.io, roomName, req.session.id);
 
   // Redirect to room page

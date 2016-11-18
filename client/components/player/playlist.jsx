@@ -6,6 +6,7 @@ import * as React from "react";
 import {connect} from "react-redux";
 
 import Track from "./track.jsx";
+import {requestFullPlaylist} from "../../actions/";
 
 class Playlist extends React.Component {
   render() {
@@ -33,6 +34,11 @@ class Playlist extends React.Component {
           })}
         </ul>
     );
+  }
+
+  componentDidMount() {
+    // When the Playlist is ready, dispatch a request for all tracks currently in the room's playlist
+    this.props.dispatch(requestFullPlaylist());
   }
 }
 

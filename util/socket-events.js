@@ -9,5 +9,10 @@ module.exports = {
 
   AddTrackToPlaylist: "AddTrackToPlaylist"/*
     Clients expect: { artist: "", title: "", albumArtUrl: "", streamUrl: "" }
+  */,
+
+  RequestFullPlaylist: "RequestFullPlaylist"/*
+    Server expects: nothing
+    Server acknowledges with: [playlistArray]
   */
 };

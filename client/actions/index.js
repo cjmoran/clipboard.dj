@@ -33,6 +33,11 @@ export function addTrackError(message) {
   return {type: ADD_TRACK_ERROR, payload: message};
 }
 
+export const OVERWRITE_CURRENT_PLAYLIST = "OVERWRITE_CURRENT_PLAYLIST";
+export function overwriteCurrentPlaylist(newPlaylist) {
+  return {type: OVERWRITE_CURRENT_PLAYLIST, payload: newPlaylist};
+}
+
 export function submitTrackUrl(trackUrl) {
   return (dispatch) => {
 
@@ -40,11 +45,24 @@ export function submitTrackUrl(trackUrl) {
       const Globals = window.CDJ_GLOBALS;
 
       // Submit track URL to server through Socket.io
-      Globals.roomSocket.emit(SocketEvents.SubmitTrackUrl, {url: trackUrl}, (result) => {
-        if(typeof result.error === "string") {
-          dispatch(addTrackError(result.error));
+      Globals.roomSocket.emit(SocketEvents.SubmitTrackUrl, {url: trackUrl}, (data) => {
+        if(typeof data.error === "string") {
+          dispatch(addTrackError(data.error));
         }
 
+        return resolve();
+      });
+    });
+  };
+}
+
+export function requestFullPlaylist() {
+  return (dispatch) => {
+
+    return new Promise( (resolve) => {
+      const Globals = window.CDJ_GLOBALS;
+      Globals.roomSocket.emit(SocketEvents.RequestFullPlaylist, null, (data) => {
+        dispatch(overwriteCurrentPlaylist(data));
         return resolve();
       });
     });

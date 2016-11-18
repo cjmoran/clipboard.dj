@@ -38,6 +38,9 @@ function playlist(state = [], action) {
     case actions.ADD_TRACK_TO_PLAYLIST:
       return [...state, action.payload];
 
+    case actions.OVERWRITE_CURRENT_PLAYLIST:
+      return action.payload;
+
     default:
       return state;
   }

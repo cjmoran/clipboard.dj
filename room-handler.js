@@ -6,17 +6,21 @@ const SocketEvents = require("./util/socket-events.js");
 /** Server-side utils for room management */
 const RoomHandler = {
   /** Stores data for every room. Key = room name (also socket.io namespace name), value = room data */
-  roomData: new Map(),
+  currentRooms: new Map(),
 
-  /** Creates new namespace in Socket.io to represent a room, and adds an entry to roomData. Returns roomData entry. */
+  /**
+   * Creates new namespace in Socket.io to represent a room, and adds an entry to currentRooms.
+   * @returns the new currentRooms entry.
+   */
   createRoom: function(io, roomName, ownerSessionId) {
     const roomDataModel = {
       name: roomName,
       ownerSessionId,
-      clientCount: 0
+      clientCount: 0,
+      playlist: []
     };
 
-    RoomHandler.roomData.set(roomName, roomDataModel);
+    RoomHandler.currentRooms.set(roomName, roomDataModel);
 
     // Rooms are represented by socket.io namespaces (socket.io confusingly also has a feature called "rooms")
     // All namespaces are stored by socket.io and accessible later through io.nsps
@@ -24,17 +28,21 @@ const RoomHandler = {
     newNamespace.on("connection", function(socket) {
       console.log(`Socket (id = ${socket.id}) connected to room "${roomName}"`);
 
-      const roomData = RoomHandler.roomData.get(roomName);
+      const roomData = RoomHandler.currentRooms.get(roomName);
       roomData.clientCount++;
 
       socket.on("disconnect", function() {
         console.log(`Socket (id = ${socket.id}) disconnected from room "${roomName}"`);
         roomData.clientCount--;
 
-        // Empty room, delete it so the next person to use this name will be the owner
+        // Empty room, delete it after 5 seconds of emptiness so the next person to use this name will be the owner
         if(roomData.clientCount <= 0) {
-          console.log(`Room "${roomName}" is now empty, deleting...`);
-          RoomHandler.roomData.delete(roomName);
+          setTimeout( () => {
+            if(roomData.clientCount <= 0) {
+              console.log(`Room "${roomName}" has been empty for 5 seconds, deleting...`);
+              RoomHandler.currentRooms.delete(roomName);
+            }
+          }, 5000);
         }
       });
 
@@ -53,8 +61,16 @@ const RoomHandler = {
 
         acknowledge({error: null});
 
+        // Add the track info to our local currentRoom.playlist
+        RoomHandler.currentRooms.get(roomName).playlist.push(trackData);
+
         // Send new track details to all in room
         newNamespace.emit(SocketEvents.AddTrackToPlaylist, trackData);
+      });
+
+      // Send
+      socket.on(SocketEvents.RequestFullPlaylist, function(nothing, acknowledge) {
+        acknowledge(RoomHandler.currentRooms.get(roomName).playlist);
       });
     });
 
