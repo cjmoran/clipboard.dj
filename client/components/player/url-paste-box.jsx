@@ -44,7 +44,7 @@ export default class UrlPasteBox extends React.Component {
 
     this.props.dispatch( submitTrackUrl(this.state.inputText) ).then( () => {
       // Re-enable input once track submitted
-      this.setState({ waitingForTrackInfo: false });
+      this.setState({ inputText: "", waitingForTrackInfo: false });
     });
   }
 }

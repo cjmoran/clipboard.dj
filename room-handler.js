@@ -1,5 +1,8 @@
 "use strict";
 
+const Track = require("./models/track.js");
+const SocketEvents = require("./util/socket-events.js");
+
 /** Server-side utils for room management */
 const RoomHandler = {
   /** Stores data for every room. Key = room name (also socket.io namespace name), value = room data */
@@ -33,6 +36,25 @@ const RoomHandler = {
           console.log(`Room "${roomName}" is now empty, deleting...`);
           RoomHandler.roomData.delete(roomName);
         }
+      });
+
+      // Handle new track URL submissions
+      socket.on(SocketEvents.SubmitTrackUrl, function({url}, acknowledge) {
+        // todo get real track data
+        const trackData = new Track(
+            "placeholder artist",
+            "placeholder title",
+            "/images/testing-static/placeholder-album-art.png",
+            "/fakeStreamUrl");
+
+        // todo if error getting track data,
+        // acknowledge({ error: new Error(...) });
+        // else...
+
+        acknowledge({error: null});
+
+        // Send new track details to all in room
+        newNamespace.emit(SocketEvents.AddTrackToPlaylist, trackData);
       });
     });
 

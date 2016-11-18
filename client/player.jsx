@@ -3,6 +3,7 @@
 
 window.CDJ_GLOBALS = {};
 const Globals = window.CDJ_GLOBALS;
+Globals.roomName = ServerInjected.roomName;
 
 import "./style/player.scss";
 
@@ -27,11 +28,11 @@ const store = createStore(
         window.devToolsExtension ? window.devToolsExtension() : f => f));
 
 // Connects to the server-determined Socket.io namespace (my code calls it a 'room')
-Globals.roomSocket = initRoomSocket(store, ServerInjected.roomName);
+Globals.roomSocket = initRoomSocket(store, Globals.roomName);
 
 class Player extends React.Component {
   render() {
-    const roomName = this.props.roomName || "";
+    const roomName = this.props.roomName;
 
     return (
         <div className="player-wrapper">
@@ -50,9 +51,6 @@ class Player extends React.Component {
   }
 }
 
-// Subscribe to Redux store updates with react-redux's `connect()`
-const ConnectedPlayer = connect(function mapStateToProps(state) {
-  return { roomName: state.room.name }
-})(Player);
-
-ReactDOM.render(<Provider store={store}><ConnectedPlayer/></Provider>, document.getElementById("page-wrapper"));
+ReactDOM.render(
+    <Provider store={store}><Player roomName={Globals.roomName}/></Provider>,
+    document.getElementById("page-wrapper"));

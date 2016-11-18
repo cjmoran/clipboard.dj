@@ -15,7 +15,11 @@ export default function initRoomSocket(store, roomName) {
   const roomSocket = io.connect(`/${roomName}`);
 
   roomSocket.on(SocketEvents.AddTrackToPlaylist, function(trackData) {
-    store.dispatch(addTrackToPlaylist( new Track(...trackData) ));
+    store.dispatch(addTrackToPlaylist( new Track(
+        trackData.artist,
+        trackData.title,
+        trackData.albumArtUrl,
+        trackData.streamUrl) ));
   });
 
   return roomSocket;

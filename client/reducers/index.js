@@ -36,7 +36,7 @@ function player(state = {playing: false, volume: 100}, action) {
 function playlist(state = [], action) {
   switch(action.type) {
     case actions.ADD_TRACK_TO_PLAYLIST:
-      return [...state].push(action.payload);
+      return [...state, action.payload];
 
     default:
       return state;

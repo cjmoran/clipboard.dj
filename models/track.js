@@ -5,6 +5,6 @@ module.exports = class Track {
     this.artist = artist;
     this.title = title;
     this.albumArtUrl = albumArtUrl;
-    this.StreamUrl = streamUrl;
+    this.streamUrl = streamUrl;
   }
 };
