@@ -40,8 +40,8 @@ app.use( (req, res, next) => {
   return next();
 });
 
-// Handle arrival at root URL "/"
-app.get("/", RoomHandler.joinToNewRoom);
+// Handle arrival at root URL "/" - for now just redirect to /room which places user in a new room
+app.get("/", (req, res) => { res.redirect("/room") });
 
 // Handle "/room/*" URLs
 app.use("/room/", roomRouter);

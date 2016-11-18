@@ -17,4 +17,15 @@ router.get("/:roomName", function(req, res) {
   res.render("player", {roomName: requestedRoom});
 });
 
+/** /room root URL: Creates a new room and places the requesting user in it */
+router.get("/", function(req, res) {
+  // Create room
+  let roomName = RoomHandler.generateRoomName();
+  while(RoomHandler.roomData.has(roomName)) { roomName = RoomHandler.generateRoomName(); }
+  const room = RoomHandler.createRoom(req.app.locals.io, roomName, req.session.id);
+
+  // Redirect to room page
+  res.redirect(`/room/${room.name}`);
+});
+
 module.exports = router;

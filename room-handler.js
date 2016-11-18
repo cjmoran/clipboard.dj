@@ -5,17 +5,6 @@ const RoomHandler = {
   /** Stores data for every room. Key = room name (also socket.io namespace name), value = room data */
   roomData: new Map(),
 
-  /** Express middleware which creates a new room and places the requesting user in it */
-  joinToNewRoom: function(req, res) {
-    // Create room
-    let roomName = RoomHandler.generateRoomName();
-    while(RoomHandler.roomData.has(roomName)) { roomName = RoomHandler.generateRoomName(); }
-    const room = RoomHandler.createRoom(req.app.locals.io, roomName, req.session.id);
-
-    // Redirect to room page
-    res.redirect(`/room/${room.name}`);
-  },
-
   /** Creates new namespace in Socket.io to represent a room, and adds an entry to roomData. Returns roomData entry. */
   createRoom: function(io, roomName, ownerSessionId) {
     const roomDataModel = {
@@ -46,7 +35,6 @@ const RoomHandler = {
         }
       });
     });
-
 
     return roomDataModel;
   },
