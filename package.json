@@ -43,7 +43,6 @@
     "socket.io": "^1.5.1",
     "soundcloud": "^3.1.2",
     "soundmanager2": "^2.97.20150601-a",
-    "superagent": "^2.3.0",
     "uuid": "^2.0.3",
     "webpack": "^1.13.3"
   },

@@ -1,12 +1,16 @@
 "use strict";
+/* global ServerInjected */
 
 import {combineReducers} from "redux";
-import * as actions from "../action-creators/";
+import * as actions from "../actions/";
 
-function room(state = {name: ""}, action) {
+function room(state = {name: ServerInjected.roomName, addTrackError: null}, action) {
   switch(action.type) {
-    case actions.actionTypes.UPDATE_ROOM_NAME:
+    case actions.UPDATE_ROOM_NAME:
       return Object.assign({}, state, { name: action.payload });
+
+    case actions.ADD_TRACK_ERROR:
+      return Object.assign({}, state, { addTrackError: action.payload });
 
     default:
       return state;
@@ -15,13 +19,13 @@ function room(state = {name: ""}, action) {
 
 function player(state = {playing: false, volume: 100}, action) {
   switch(action.type) {
-    case actions.actionTypes.PLAY_MUSIC:
+    case actions.PLAY_MUSIC:
       return Object.assign({}, state, { playing: true });
 
-    case actions.actionTypes.PAUSE_MUSIC:
+    case actions.PAUSE_MUSIC:
       return Object.assign({}, state, { playing: false });
 
-    case actions.actionTypes.CHANGE_VOLUME:
+    case actions.CHANGE_VOLUME:
       return Object.assign({}, state, { volume: action.payload });
 
     default:
@@ -31,6 +35,9 @@ function player(state = {playing: false, volume: 100}, action) {
 
 function playlist(state = [], action) {
   switch(action.type) {
+    case actions.ADD_TRACK_TO_PLAYLIST:
+      return [...state].push(action.payload);
+
     default:
       return state;
   }

@@ -1,6 +1,6 @@
 "use strict";
 
-import "../../../style/components/common/copy-to-clipboard-button.scss";
+import "../../style/components/common/copy-to-clipboard-button.scss";
 
 import * as React from "react";
 import Clipboard from "clipboard";

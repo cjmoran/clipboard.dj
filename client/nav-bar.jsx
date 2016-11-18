@@ -1,6 +1,6 @@
 "use strict";
 
-import "../style/nav-bar.scss";
+import "./style/nav-bar.scss";
 
 import * as React from "react";
 

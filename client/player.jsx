@@ -1,48 +1,58 @@
 "use strict";
 /* global ServerInjected */
 
-import "../style/player.scss";
+window.CDJ_GLOBALS = {};
+const Globals = window.CDJ_GLOBALS;
+
+import "./style/player.scss";
 
 import * as React from "react";
 import * as ReactDOM from "react-dom";
-import {Provider} from "react-redux";
+import {Provider, connect} from "react-redux";
 import {compose, createStore, applyMiddleware} from "redux";
 import createLogger from "redux-logger";
-import thunkMiddleware from "redux-thunk";
+import thunk from "redux-thunk";
 
-import audioPlayer from "./audio/audio-player.js";
-import clipboardDjApp from "./reducers/index.js";
+import audioPlayer from "./util/audio-player.js";
+import initRoomSocket from "./util/init-socket-client.js";
+import rootReducer from "./reducers/";
 import NavBar from "./nav-bar.jsx";
 import UrlPasteBox from "./components/player/url-paste-box.jsx";
-import Playlist from "./components/player/playlist.jsx";
-
-// Connect to the server-determined Socket.io namespace
-const socket = io.connect(`/${ServerInjected.roomName}`);
+import ConnectedPlaylist from "./components/player/playlist.jsx";
 
 const store = createStore(
-    clipboardDjApp,
+    rootReducer,
     compose(
-        applyMiddleware(createLogger(), thunkMiddleware),
-        window.devToolsExtension ? window.devToolsExtension() : f => f
-    ));
+        applyMiddleware(createLogger(), thunk),
+        window.devToolsExtension ? window.devToolsExtension() : f => f));
+
+// Connects to the server-determined Socket.io namespace (my code calls it a 'room')
+Globals.roomSocket = initRoomSocket(store, ServerInjected.roomName);
 
 class Player extends React.Component {
   render() {
+    const roomName = this.props.roomName || "";
+
     return (
         <div className="player-wrapper">
-          <NavBar roomName={ServerInjected.roomName} />
+          <NavBar roomName={roomName} />
 
           <div className="player">
             <a className="soundcloud-logo-link" href="https://soundcloud.com/" target="_blank">
               <img src="/images/powered-by-soundcloud.png" />
             </a>
 
-            <UrlPasteBox />
-            <Playlist />
+            <UrlPasteBox dispatch={store.dispatch} />
+            <ConnectedPlaylist />
           </div>
         </div>
     );
   }
 }
 
-ReactDOM.render(<Provider store={store}><Player/></Provider>, document.getElementById("page-wrapper"));
+// Subscribe to Redux store updates with react-redux's `connect()`
+const ConnectedPlayer = connect(function mapStateToProps(state) {
+  return { roomName: state.room.name }
+})(Player);
+
+ReactDOM.render(<Provider store={store}><ConnectedPlayer/></Provider>, document.getElementById("page-wrapper"));

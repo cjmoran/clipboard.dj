@@ -1,27 +1,15 @@
 "use strict";
 
-import "../../../style/components/player/playlist.scss";
+import "../../style/components/player/playlist.scss";
 
 import * as React from "react";
+import {connect} from "react-redux";
 
 import Track from "./track.jsx";
 
-export default class Playlist extends React.Component {
+class Playlist extends React.Component {
   render() {
-    const tracks = [
-      {
-        albumArt: "/images/testing-static/placeholder-album-art.png",
-        artist: "Track Artist",
-        title: "Track Title",
-        addedBy: "user who added it"
-      },
-      {
-        albumArt: "/images/testing-static/placeholder-album-art.png",
-        artist: "Track Artist",
-        title: "Track Title",
-        addedBy: "user who added it"
-      }
-    ];
+    const tracks = this.props.tracks || [];
 
     return (
         <ul className="playlist">
@@ -38,7 +26,7 @@ export default class Playlist extends React.Component {
             return <Track
                 key={index}
                 nowPlaying={index === 0}
-                albumArt={track.albumArt}
+                albumArtUrl={track.albumArtUrl}
                 artist={track.artist}
                 title={track.title}
                 addedBy={track.addedBy} />
@@ -47,3 +35,10 @@ export default class Playlist extends React.Component {
     );
   }
 }
+
+// Create a wrapper for ConnectedPlaylist which subscribes it to the Redux store
+const ConnectedPlaylist = connect(function mapStateToProps(state) {
+  return { tracks: state.playlist }
+})(Playlist);
+
+export default ConnectedPlaylist;

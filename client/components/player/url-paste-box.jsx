@@ -1,18 +1,19 @@
 "use strict";
 
-import "../../../style/components/player/url-paste-box.scss";
+import "../../style/components/player/url-paste-box.scss";
 
 import * as React from "react";
-import request from "superagent";
+
+import {submitTrackUrl} from "../../actions/";
 
 export default class UrlPasteBox extends React.Component {
   constructor() {
     super();
 
-    this.state = { inputText: "", inputDisabled: false };
+    this.state = { inputText: "", waitingForTrackInfo: false };
 
     this.onInputText = this.onInputText.bind(this);
-    this.onAddTrack = this.onAddTrack.bind(this);
+    this.onSubmitTrack = this.onSubmitTrack.bind(this);
   }
 
   render() {
@@ -24,9 +25,9 @@ export default class UrlPasteBox extends React.Component {
             type="text"
             value={this.state.inputText}
             onChange={this.onInputText}
-            disabled={this.state.inputDisabled} />
+            disabled={this.state.waitingForTrackInfo} />
 
-          <button type="button" onClick={this.onAddTrack} disabled={this.state.inputDisabled}>
+          <button type="button" onClick={this.onSubmitTrack} disabled={this.state.waitingForTrackInfo}>
             <img src="/images/icon-plus.svg"/>
           </button>
         </div>
@@ -37,12 +38,13 @@ export default class UrlPasteBox extends React.Component {
     this.setState({ inputText: event.target.value });
   }
 
-  onAddTrack() {
-    const trackUrl = this.state.inputText;
+  onSubmitTrack() {
+    // Disable input
+    this.setState({ waitingForTrackInfo: true });
 
-    // Disable paste box and button while processing
-    this.setState({ inputDisabled: true });
-
-    // TODO enable input once the track is added
+    this.props.dispatch( submitTrackUrl(this.state.inputText) ).then( () => {
+      // Re-enable input once track submitted
+      this.setState({ waitingForTrackInfo: false });
+    });
   }
 }
